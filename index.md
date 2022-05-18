@@ -1,5 +1,19 @@
-## Welcome to GitHub Pages
+### Hi, My name is Dherya - @ranaDherya
 
+## CSE'25
+- I'm a web-developer.
+- My skill sets are
+  - OOPs
+  - Python
+  - Java
+  - ExpressJS
+  - NodeJS
+  - JavaScript
+  - MongoDB
+  - Data Structures
+
+## Connect with Me
+- [Link](https://www.twitter.com/ranaDherya)twitter
 You can use the [editor on GitHub](https://github.com/ranaDherya/ranaDherya.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
